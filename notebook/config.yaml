@@ -1,0 +1,3 @@
+paths:
+  data: 'D:/Workspace/Machine_Learning/Recommendation_System/Game_Recommendation_System/data'
+  model: 'D:/Workspace/Machine_Learning/Recommendation_System/Game_Recommendation_System/model'
