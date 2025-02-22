@@ -1,0 +1,3 @@
+rapidfuzz
+pyspellchecker
+scikit-learn
